@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Provoke.mp3-0572a4695aaaebfd8323506df0eed930.mp3str"
+
+[deps]
+
+source_file="res://Assets/Provoke.mp3"
+dest_files=[ "res://.import/Provoke.mp3-0572a4695aaaebfd8323506df0eed930.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

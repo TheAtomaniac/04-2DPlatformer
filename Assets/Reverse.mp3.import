@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Reverse.mp3-2b1ebbaece3c40b85d1876d079aba3d4.mp3str"
+
+[deps]
+
+source_file="res://Assets/Reverse.mp3"
+dest_files=[ "res://.import/Reverse.mp3-2b1ebbaece3c40b85d1876d079aba3d4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

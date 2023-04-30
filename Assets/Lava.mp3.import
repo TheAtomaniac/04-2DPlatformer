@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Lava.mp3-0d96e548d1c09522f870084a7489d4a9.mp3str"
+
+[deps]
+
+source_file="res://Assets/Lava.mp3"
+dest_files=[ "res://.import/Lava.mp3-0d96e548d1c09522f870084a7489d4a9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Abrakian Drums.mp3-82f827de7009385e3d24b7f50767281a.mp3str"
+
+[deps]
+
+source_file="res://Assets/Abrakian Drums.mp3"
+dest_files=[ "res://.import/Abrakian Drums.mp3-82f827de7009385e3d24b7f50767281a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
